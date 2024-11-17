@@ -10,7 +10,7 @@
         <img class="h-8 w-auto" src={{ asset('logo.png') }} alt="">
         </a>
         <div class="flex flex-1 justify-end">
-        <a href="#" class="text-sm/6 font-semibold text-gray-900">Admin</a>
+        <a href="/admin" class="text-sm/6 font-semibold text-gray-900">Admin</a>
         </div>
     </nav>
 </header>
